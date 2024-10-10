@@ -1,0 +1,19 @@
+*{
+    margin: 40px;
+    box-sizing: border-box;
+}
+
+#div{
+    margin-left: 30%;
+    background-color: aqua;
+}
+
+body{
+    background-color: rgb(15, 187, 32);
+}
+h1{
+    color: rgb(230, 241, 21);
+}
+input{
+    background-color: aquamarine;
+}
