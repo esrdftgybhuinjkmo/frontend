@@ -1,0 +1,24 @@
+
+
+h1{
+    text-align: center;
+    color: rgb(203, 27, 27);
+}
+
+
+
+#input2{
+    margin-left: 1000px;
+}
+#input1{
+    margin-left: 100px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+   
+}
+
+
+
