@@ -30,14 +30,11 @@ let btn = document.getElementById('btn').onclick = ()=>{
         p.textContent =    (Math.pow (a.value , 1/c.value)).toFixed(2) ;
 
     }
-
-    
 };
 
 
 
-// console.log(Math.pow(81, 1/4));
-// console.log(81 ** (1/4));
+
 
 
 
