@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    display: inline;
+    margin: 30px;
+
+    color: black;
+    
+}
+#kontent{
+    margin-top: 100px;
+}
+
+.menu{
+    display: flex;
+    justify-content: end;
+
+    /* margin: 10px; */
+}
+
+
+#tilda{
+    margin-top: 20px;
+}
